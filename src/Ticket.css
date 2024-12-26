@@ -1,0 +1,6 @@
+.ticket{
+  height: 75px;
+  width: 200px;
+  display: flex;
+  background-color: white;
+}
